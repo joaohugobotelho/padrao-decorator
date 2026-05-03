@@ -1,0 +1,14 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib\\junit-platform-console-standalone-1.13.0-M3.jar"
+        ],
+        "exclude": [
+            "lib/junit-platform-console-standalone-1.13.0-M3.jar"
+        ]
+    }
+}
